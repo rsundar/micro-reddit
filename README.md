@@ -71,4 +71,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://www.github.com/rsundar/micro-reddit/tree/master/LICENSE.txt) licensed.
+This project is [MIT](https://www.github.com/rsundar/micro-reddit/tree/master/LICENSE) licensed.
