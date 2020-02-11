@@ -49,7 +49,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- Github: [@mariobarrioss](https://github.com/githubhandle)
+- Github: [@mariobarrioss](https://github.com/mariobarrioss)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
