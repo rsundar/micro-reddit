@@ -18,4 +18,14 @@ class PostTest < ActiveSupport::TestCase
     @post.post = ''
     assert_not @post.valid?
   end
+
+  test "Url should be valid" do
+    @post.post = 'htp.ww.test.com'
+    assert_not @post.valid?
+  end
+
+  test "Length of body should be 255" do
+    @post.body = 'a' * 256
+    assert_not @post.valid?
+  end
 end
