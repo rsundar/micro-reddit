@@ -3,10 +3,8 @@ class CreateComments < ActiveRecord::Migration[6.0]
     create_table :comments do |t|
       t.string :comment
       t.string :text
-      t.string :belongs_to
-      t.string :user
-      t.string :belongs_to
-      t.string :post
+      t.belongs_to :user, foreign_key: true, index: true
+      t.belongs_to :post, foreign_key: true, index: true
 
       t.timestamps
     end

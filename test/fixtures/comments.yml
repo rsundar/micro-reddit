@@ -3,15 +3,15 @@
 one:
   comment: MyString
   text: MyString
-  belongs_to: MyString
   user: MyString
   belongs_to: MyString
   post: MyString
+  belongs_to: MyString
 
 two:
   comment: MyString
   text: MyString
-  belongs_to: MyString
   user: MyString
   belongs_to: MyString
   post: MyString
+  belongs_to: MyString
