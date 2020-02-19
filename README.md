@@ -2,20 +2,14 @@
 
 > 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Project-screenshot.png)
 
-Additional description about the project and its features.
+Additional description about the p
 
 ## Built With
 
 - Ruby,
-- Ruby on Rails 6,
-- Rspec for testing
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby on Rails 6
 
 ## Getting Started
 
@@ -41,13 +35,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Rohan Sundar**
 
 - Github: [@rsundar](https://github.com/rsundar)
 - Twitter: [@skelegrow](https://twitter.com/)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
-👤 **Author2**
+👤 **Mario Barrios**
 
 - Github: [@mariobarrioss](https://github.com/mariobarrioss)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
